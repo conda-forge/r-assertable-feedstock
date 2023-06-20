@@ -1,11 +1,11 @@
-About r-assertable
-==================
+About r-assertable-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-assertable-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=assertable
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-assertable-feedstock/blob/main/LICENSE.txt)
 
 Summary: Simple, flexible, assertions on data.frame or data.table objects with verbose output for vetting. While other assertion packages apply towards more general use-cases, assertable is tailored towards tabular data. It includes functions to check variable names and values, whether the dataset contains all combinations of a given set of unique identifiers, and whether it is a certain length. In addition, assertable includes utility functions to check the existence of target files and to efficiently import multiple tabular data files into one data.table.
 
